@@ -4,7 +4,7 @@ const bgImage = document.createElement("img");
 imagesBox.appendChild(bgImage);
 const imgButton = document.createElement("button");
 imagesBox.appendChild(imgButton);
-imgButton.innerText = "click me";
+imgButton.innerText = "click random image";
 imgButton.className = "img-click_button";
 
 function handleBgImages() {

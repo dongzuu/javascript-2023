@@ -1,7 +1,6 @@
 const toDoListForm = document.querySelector("#todo-form");
 const toDoInput = toDoListForm.querySelector("input");
 const toDoList = document.querySelector("#todo-list");
-toDoInput.focus();
 
 let toDos = [];
 
